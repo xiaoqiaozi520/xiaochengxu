@@ -55,7 +55,8 @@
     "page/API/canvas/canvas",
     "page/API/background-audio/background-audio",
     "page/API/get-location/get-location",
-    "page/API/open-location/open-location"
+    "page/API/open-location/open-location",
+    "page/test/index"
   ],
   "window": {
     "navigationBarTextStyle": "black",
@@ -80,6 +81,12 @@
         "iconPath": "image/wechat.png",
         "selectedIconPath": "image/wechatHL.png",
         "text": "接口"
+      },
+      {
+        "pagePath": "page/test/index",
+        "iconPath": "image/wechat.png",
+        "selectedIconPath": "image/wechatHL.png",
+        "text": "tset "
       }
     ]
   },
